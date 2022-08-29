@@ -3,8 +3,6 @@ import os
 from numpy import loadtxt
 from pathlib import Path
 #Versão 1.0.3 - criando a propria pasta
-#C:\Users\marce\OneDrive\Documentos\Arquivos teste
-#C:\Users\marce\OneDrive\Área de Trabalho\Curso havard/
 #1° Coloque o numeros (com 13 digitos) num arquivo .txt
 #2° Rode o programa EAN13, os digitos verificados foram colocados POR HORA NO TERMINAL num arquivo .txt.
 
